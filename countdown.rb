@@ -2,7 +2,6 @@
 
 
 def countdown(time)
-  time = 
   
   while time > 0
     time -= 1
