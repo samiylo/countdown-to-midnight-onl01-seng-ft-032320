@@ -4,7 +4,7 @@
 def countdown
   time = 10 
   
-  while time > 10
+  while time > 0
   sleep(1)
     time -= 1
     puts "#{time} secconds!"
