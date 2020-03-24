@@ -1,8 +1,8 @@
 #write your code here
 
 
-def countdown
-  time = 10 
+def countdown(time)
+  time = 
   
   while time > 0
     time -= 1
