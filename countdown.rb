@@ -9,6 +9,7 @@ def countdown
     time -= 1
     puts "#{time} secconds!"
   end
+  sleep(1)
   puts "HAPPY NEW YEAR!"
 end
 
